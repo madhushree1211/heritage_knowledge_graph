@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --cyber-bg: #11100e;            /* Deep basalt rock black */
+  --cyber-card: #1c1a17;          /* Warm granite blocks */
+  --cyber-border: #3d3428;        /* Muted brass/copper border */
+  --cyan-950: #211e17;
+  
+  --gray-100: #f1ebd9;
+  --gray-200: #e6e1da;
+  --gray-300: #d5cfc5;
+  --gray-400: #9c9284;
+  --gray-500: #7b7161;
+
+  --graph-line: #64748b;          /* Visible slate-500 in dark mode */
+  --graph-arrow: #64748b;
+  --grid-line-color: rgba(61, 52, 40, 0.05);
+  color-scheme: dark;
+}
+
+.light {
+  --cyber-bg: #FAF8F5;            /* Sand/cream light background */
+  --cyber-card: #FFFFFF;          /* Pure white card */
+  --cyber-border: #E4DAC9;        /* Warm light brass border */
+  --cyan-950: #F3ECE0;
+
+  --gray-100: #1B1816;            /* Rich dark charcoal text */
+  --gray-200: #2E2925;
+  --gray-300: #4B433C;
+  --gray-400: #7A6F62;
+  --gray-500: #998C7C;
+
+  --graph-line: #A29482;          /* Visible warm gray in light mode */
+  --graph-arrow: #A29482;
+  --grid-line-color: rgba(181, 144, 75, 0.08);
+  color-scheme: light;
+}
+
+@theme {
+  --color-cyber-bg: var(--cyber-bg);
+  --color-cyber-card: var(--cyber-card);
+  --color-cyber-border: var(--cyber-border);
+  
+  --color-gray-100: var(--gray-100);
+  --color-gray-200: var(--gray-200);
+  --color-gray-300: var(--gray-300);
+  --color-gray-400: var(--gray-400);
+  --color-gray-500: var(--gray-500);
+
+  --color-cyan-400: #cda752;       /* Warm bronze gold */
+  --color-cyan-500: #b5904b;       /* Imperial brass */
+  --color-cyan-600: #9e7b3c;
+  --color-cyan-950: var(--cyan-950);
+
+  --color-cyan-300: #dcb86c;
+  --color-cyan-700: #856630;
+  
+  /* Redefining font families */
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Space Mono', Courier New, monospace;
+}
+
+body {
+  margin: 0;
+  background-color: var(--cyber-bg);
+  color: var(--gray-200);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Custom scrollbar matching traditional stone/brass */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--cyber-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--cyber-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b5904b;
+}
+
+/* Subtly glowing warm borders */
+.glow-border-cyan {
+  box-shadow: 0 0 10px rgba(181, 144, 75, 0.1);
+  border: 1px solid rgba(181, 144, 75, 0.25);
+}
+
+.glow-border-cyan:hover {
+  box-shadow: 0 0 15px rgba(181, 144, 75, 0.25);
+  border: 1px solid rgba(181, 144, 75, 0.5);
+  transition: all 0.3s ease;
+}
+
+.glow-border-purple {
+  box-shadow: 0 0 10px rgba(195, 98, 65, 0.1);
+  border: 1px solid rgba(195, 98, 65, 0.25);
+}
+
+.glow-border-purple:hover {
+  box-shadow: 0 0 15px rgba(195, 98, 65, 0.25);
+  border: 1px solid rgba(195, 98, 65, 0.5);
+  transition: all 0.3s ease;
+}
+
+/* Traditional stone grid lines */
+.cyber-grid {
+  background-size: 60px 60px;
+  background-image: 
+    linear-gradient(to right, var(--grid-line-color) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--grid-line-color) 1px, transparent 1px);
+}
+
+/* Node styles in graph matching traditional earth tones */
+.node-temple { fill: #b5904b; stroke: #dcb86c; }
+.node-person { fill: #c36241; stroke: #e69173; }
+.node-dynasty { fill: #8a7968; stroke: #b1a496; }
+.node-period { fill: #52634e; stroke: #7e9479; }
+.node-location { fill: #a34e36; stroke: #c97963; }
+.node-style { fill: #726857; stroke: #998f7e; }
+.node-feature { fill: #9e855c; stroke: #c0ab88; }
+.node-deity { fill: #d4af37; stroke: #fef08a; }
+.node-inscription { fill: #657560; stroke: #8f9f8a; }
+.node-event { fill: #b05c48; stroke: #d68573; }

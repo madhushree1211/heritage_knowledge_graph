@@ -1,0 +1,749 @@
+{
+  "nodes": [
+    {
+      "type": "Temple",
+      "properties": {
+        "id": "brihadisvara",
+        "name": "Brihadisvara Temple",
+        "alternate_names": ["Brihadeeswarar Temple", "Peruvudaiyar Kovil", "Rajarajeswaram"],
+        "description": "Commissioned by Emperor Rajaraja Chola I and completed in 1010 CE, this temple is a masterpiece of Dravidian architecture. It features a massive 216-foot vimana (temple tower) and is entirely built of granite. It is a UNESCO World Heritage Site, part of the Great Living Chola Temples.",
+        "location": "Thanjavur",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "latitude": 10.7828,
+        "longitude": 79.1318,
+        "deity": "Shiva",
+        "heritage_status": "UNESCO World Heritage Site",
+        "source": "Archaeological Survey of India (ASI) Record TN-034",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Brihadeeswarar_Temple_Full_View.jpg"
+      }
+    },
+    {
+      "type": "Temple",
+      "properties": {
+        "id": "gangaikonda_cholapuram",
+        "name": "Gangaikonda Cholapuram Temple",
+        "alternate_names": ["Brihadisvara Temple of Gangaikondacholapuram"],
+        "description": "Built by Rajendra Chola I, the son of Rajaraja Chola I, to commemorate his victorious military campaign to the Ganges River. Completed around 1035 CE, this Shiva temple features a 182-foot vimana with a feminine curvature, contrasting with the masculine straight lines of the Thanjavur temple.",
+        "location": "Gangaikonda Cholapuram",
+        "district": "Ariyalur",
+        "state": "Tamil Nadu",
+        "latitude": 11.2064,
+        "longitude": 79.4822,
+        "deity": "Shiva",
+        "heritage_status": "UNESCO World Heritage Site",
+        "source": "ASI Record TN-035",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/GangaiKonda_Cholapuram%28Front_View%29.JPG"
+      }
+    },
+    {
+      "type": "Temple",
+      "properties": {
+        "id": "airavatesvara",
+        "name": "Airavatesvara Temple",
+        "alternate_names": ["Darasuram Temple"],
+        "description": "Commissioned by Rajaraja Chola II in the 12th century CE, this temple is renowned for its exquisite stone carvings, chariot-shaped mandapa (hall) pulled by horses and elephants, and its singing steps. It is dedicated to Shiva and is a UNESCO World Heritage Site.",
+        "location": "Darasuram",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "latitude": 10.9482,
+        "longitude": 79.3564,
+        "deity": "Shiva",
+        "heritage_status": "UNESCO World Heritage Site",
+        "source": "ASI Record TN-036",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Airavatesvara_Temple_full_view.jpg"
+      }
+    },
+    {
+      "type": "Temple",
+      "properties": {
+        "id": "shore_temple",
+        "name": "Shore Temple",
+        "alternate_names": ["Mamallapuram Shore Temple"],
+        "description": "Built during the Pallava dynasty under Narasimhavarman II (Rajasimha) in the 8th century CE, this structural stone temple stands on the shore of the Bay of Bengal. It includes shrines dedicated to Shiva and Vishnu, representing the transition from rock-cut to structural architecture.",
+        "location": "Mamallapuram",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "latitude": 12.6163,
+        "longitude": 80.1931,
+        "deity": "Shiva and Vishnu",
+        "heritage_status": "UNESCO World Heritage Site",
+        "source": "ASI Record TN-002",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Shore_Temple%2C_Mahabalipuram.jpg"
+      }
+    },
+    {
+      "type": "Temple",
+      "properties": {
+        "id": "kailasanathar",
+        "name": "Kailasanathar Temple",
+        "alternate_names": ["Kanchi Kailasanathar"],
+        "description": "The oldest structural temple in Kanchipuram, commissioned by Pallava King Rajasimha (Narasimhavarman II) in the early 8th century CE. Built using sandstone, it is famous for its intricate Dravidian carvings and is dedicated to Shiva.",
+        "location": "Kanchipuram",
+        "district": "Kanchipuram",
+        "state": "Tamil Nadu",
+        "latitude": 12.8422,
+        "longitude": 79.6897,
+        "deity": "Shiva",
+        "heritage_status": "Protected Monument",
+        "source": "State Archaeological Department Record TN-012",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kailasanathar_Temple._Kanchipuram%2C_TamilNadu.jpg"
+      }
+    },
+    {
+      "type": "Temple",
+      "properties": {
+        "id": "meenakshi_amman",
+        "name": "Meenakshi Amman Temple",
+        "alternate_names": ["Meenakshi Sundareswarar Temple", "Madurai Meenakshi"],
+        "description": "A historic Hindu temple located on the southern bank of the Vaigai River in Madurai. Though its history dates back over 2,000 years, the current structures were largely rebuilt by the Nayaks in the 16th and 17th centuries. It features 14 towering gopurams and is dedicated to Meenakshi (Parvati) and Sundareswarar (Shiva).",
+        "location": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "latitude": 9.9195,
+        "longitude": 78.1193,
+        "deity": "Meenakshi and Sundareswarar",
+        "heritage_status": "Active Heritage Site",
+        "source": "Madurai Temple Devasthanam Archives",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Madurai_Meenakshi_Amman_Temple_Gopuram.jpg"
+      }
+    },
+    {
+      "type": "Temple",
+      "properties": {
+        "id": "ranganathaswamy",
+        "name": "Ranganathaswamy Temple",
+        "alternate_names": ["Srirangam Kovil", "Srirangam Temple"],
+        "description": "The largest active Hindu temple complex in the world, dedicated to Ranganatha, a reclining form of Vishnu. Spanning 156 acres with 21 magnificent gopurams, it has inscriptions tracing back to the Chola, Pandya, Hoysala, and Vijayanagara dynasties.",
+        "location": "Srirangam",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "latitude": 10.8622,
+        "longitude": 78.6903,
+        "deity": "Vishnu",
+        "heritage_status": "Active Heritage Site",
+        "source": "Srirangam Temple Inscriptions, Vol II",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Srirangam-Rajagopuram-1.jpg"
+      }
+    },
+    {
+      "type": "Person",
+      "properties": {
+        "id": "rajaraja_chola_i",
+        "name": "Rajaraja Chola I",
+        "title": "Chola Emperor",
+        "reign_period": "985 - 1014 CE",
+        "description": "One of the greatest monarchs of the Chola Dynasty. He expanded the empire across South India, Sri Lanka, and the Maldives, established a highly structured administrative system, and commissioned the famous Brihadisvara Temple in Thanjavur.",
+        "source": "South Indian Inscriptions, Vol II",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rajaraja_mural.jpg"
+      }
+    },
+    {
+      "type": "Person",
+      "properties": {
+        "id": "rajendra_chola_i",
+        "name": "Rajendra Chola I",
+        "title": "Chola Emperor",
+        "reign_period": "1014 - 1044 CE",
+        "description": "Son of Rajaraja Chola I. Under his rule, the Chola Empire reached its peak military and maritime size, launching naval expeditions to Southeast Asia (Srivijaya) and conquering kingdoms up to the Ganges river, which earned him the title Gangaikonda Cholan.",
+        "source": "Tiruvalangadu Copper Plates",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ardhanari_Gangaikonda.jpg"
+      }
+    },
+    {
+      "type": "Person",
+      "properties": {
+        "id": "rajaraja_chola_ii",
+        "name": "Rajaraja Chola II",
+        "title": "Chola Emperor",
+        "reign_period": "1146 - 1173 CE",
+        "description": "A prominent ruler of the Later Chola period. He commissioned the exquisite Airavatesvara Temple at Darasuram, which represents the highest sophistication of Chola stone sculpture and design.",
+        "source": "Darasuram Inscription Series",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Airavatesvara_Temple_full_view.jpg"
+      }
+    },
+    {
+      "type": "Person",
+      "properties": {
+        "id": "narasimhavarman_ii",
+        "name": "Narasimhavarman II",
+        "title": "Pallava King (Rajasimha)",
+        "reign_period": "700 - 728 CE",
+        "description": "A great patron of arts and architecture belonging to the Pallava dynasty. He built the Shore Temple at Mamallapuram and the Kailasanathar Temple in Kanchipuram, marking the high era of Pallava structural temple architecture.",
+        "source": "Kanchipuram Kailasanathar Inscriptions",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Shore_Temple%2C_Mahabalipuram.jpg"
+      }
+    },
+    {
+      "type": "Dynasty",
+      "properties": {
+        "id": "chola_dynasty",
+        "name": "Chola Dynasty",
+        "period": "3rd Century BCE - 13th Century CE",
+        "description": "One of the longest-ruling dynasties in world history. Based in the fertile Kaveri River valley, they were renowned for their military conquest, maritime trade, administration, and monumental granite temples.",
+        "source": "South Indian History Overview",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chola_symbol_of_tiger.jpg"
+      }
+    },
+    {
+      "type": "Dynasty",
+      "properties": {
+        "id": "pallava_dynasty",
+        "name": "Pallava Dynasty",
+        "period": "3rd Century - 9th Century CE",
+        "description": "An influential dynasty in South India that pioneered rock-cut cave temples and monolithic structures (Rathas), transitioning into structural stone temples.",
+        "source": "Pallava Art History Records",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kailasanathar_Temple._Kanchipuram%2C_TamilNadu.jpg"
+      }
+    },
+    {
+      "type": "Dynasty",
+      "properties": {
+        "id": "pandya_dynasty",
+        "name": "Pandya Dynasty",
+        "period": "4th Century BCE - 16th Century CE",
+        "description": "An ancient Tamil dynasty ruling from Madurai, known for controlling the pearl trade, patronizing Tamil Sangam literature, and constructing massive gopurams on temples.",
+        "source": "Pandyan Chronicle Archives",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Goddess_Meenakshi_Wedding.JPG"
+      }
+    },
+    {
+      "type": "HistoricalPeriod",
+      "properties": {
+        "id": "chola_period",
+        "name": "Chola Period",
+        "start_year": "850",
+        "end_year": "1279",
+        "description": "The golden age of Tamil Nadu cultural history, marked by high artistic achievement, temple architecture, bronze casting, and expansive maritime influence.",
+        "source": "South Indian History Studies"
+      }
+    },
+    {
+      "type": "HistoricalPeriod",
+      "properties": {
+        "id": "pallava_period",
+        "name": "Pallava Period",
+        "start_year": "275",
+        "end_year": "897",
+        "description": "The foundation era of South Indian temple architecture, marked by rock-cut caves, monolithic carvings in Mamallapuram, and sandstone structural temples.",
+        "source": "Early Deccan Art Studies"
+      }
+    },
+    {
+      "type": "HistoricalPeriod",
+      "properties": {
+        "id": "pandya_period",
+        "name": "Pandya Period",
+        "start_year": "560",
+        "end_year": "1311",
+        "description": "Characterized by the revival of Pandyan power in Madurai, conflict with Cholas, and the expansion of temple gateways (Gopurams).",
+        "source": "Madurai Historical Records"
+      }
+    },
+    {
+      "type": "Location",
+      "properties": {
+        "id": "thanjavur",
+        "name": "Thanjavur",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "latitude": 10.7828,
+        "longitude": 79.1318,
+        "source": "Census of India Geographical Directory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Brihadeeswarar_Temple_Full_View.jpg"
+      }
+    },
+    {
+      "type": "Location",
+      "properties": {
+        "id": "gangaikonda_cholapuram_loc",
+        "name": "Gangaikonda Cholapuram",
+        "district": "Ariyalur",
+        "state": "Tamil Nadu",
+        "latitude": 11.2064,
+        "longitude": 79.4822,
+        "source": "Census of India Geographical Directory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/GangaiKonda_Cholapuram%28Front_View%29.JPG"
+      }
+    },
+    {
+      "type": "Location",
+      "properties": {
+        "id": "darasuram",
+        "name": "Darasuram",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "latitude": 10.9482,
+        "longitude": 79.3564,
+        "source": "Census of India Geographical Directory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Airavatesvara_Temple_full_view.jpg"
+      }
+    },
+    {
+      "type": "Location",
+      "properties": {
+        "id": "mamallapuram",
+        "name": "Mamallapuram",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "latitude": 12.6163,
+        "longitude": 80.1931,
+        "source": "Census of India Geographical Directory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Arjuna%27s_Penance_-_Mamallapuram.jpg"
+      }
+    },
+    {
+      "type": "Location",
+      "properties": {
+        "id": "kanchipuram",
+        "name": "Kanchipuram",
+        "district": "Kanchipuram",
+        "state": "Tamil Nadu",
+        "latitude": 12.8422,
+        "longitude": 79.6897,
+        "source": "Census of India Geographical Directory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kailasanathar_Temple._Kanchipuram%2C_TamilNadu.jpg"
+      }
+    },
+    {
+      "type": "Location",
+      "properties": {
+        "id": "madurai",
+        "name": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "latitude": 9.9195,
+        "longitude": 78.1193,
+        "source": "Census of India Geographical Directory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Madurai_Meenakshi_Amman_Temple_Gopuram.jpg"
+      }
+    },
+    {
+      "type": "Location",
+      "properties": {
+        "id": "srirangam",
+        "name": "Srirangam",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "latitude": 10.8622,
+        "longitude": 78.6903,
+        "source": "Census of India Geographical Directory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Srirangam-Rajagopuram-1.jpg"
+      }
+    },
+    {
+      "type": "ArchitecturalStyle",
+      "properties": {
+        "id": "dravidian_architecture",
+        "name": "Dravidian Architecture",
+        "description": "An architectural style in the Hindu temple architecture that emerged in the southern part of the Indian subcontinent. It consists primarily of temples with pyramid-shaped towers (Vimana), pillared halls (Mandapa), and monumental gateway towers (Gopuram).",
+        "source": "Encyclopaedia of Indian Temple Architecture"
+      }
+    },
+    {
+      "type": "ArchitecturalFeature",
+      "properties": {
+        "id": "vimana",
+        "name": "Vimana",
+        "description": "The tower built over the garbhagriha (inner sanctum) of a Hindu temple in Dravidian architecture. It is typically pyramid-shaped, rising in tiers (talas). The Vimana of the Brihadisvara Temple is legendary for its monumental size and scale, reaching 66 meters in height.",
+        "source": "Glossary of Indian Temple Architecture"
+      }
+    },
+    {
+      "type": "ArchitecturalFeature",
+      "properties": {
+        "id": "gopuram",
+        "name": "Gopuram",
+        "description": "A monumental entrance tower, usually ornate, at the entrance of a Hindu temple, particularly in Dravidian style. The Meenakshi Amman Temple and Ranganathaswamy Temple are famous for their giant multi-tiered gopurams.",
+        "source": "Glossary of Indian Temple Architecture"
+      }
+    },
+    {
+      "type": "ArchitecturalFeature",
+      "properties": {
+        "id": "mandapa",
+        "name": "Mandapa",
+        "description": "A pillared outdoor hall or pavilion for public rituals in Hindu temples. In Chola architecture, mandapas (like the chariot-shaped one in Darasuram) evolved into sophisticated structures with pillars featuring delicate relief carvings.",
+        "source": "Glossary of Indian Temple Architecture"
+      }
+    },
+    {
+      "type": "ArchitecturalFeature",
+      "properties": {
+        "id": "monolithic_ratha",
+        "name": "Monolithic Ratha",
+        "description": "A rock-cut structure shaped like a chariot, carved out of a single granite boulder, characteristic of early Pallava architecture in Mamallapuram (e.g. Pancha Rathas).",
+        "source": "Glossary of Indian Temple Architecture"
+      }
+    },
+    {
+      "type": "Deity",
+      "properties": {
+        "id": "shiva",
+        "name": "Shiva",
+        "description": "One of the principal deities of Hinduism, worshipped as the supreme destroyer and transformer. Most major Chola and Pallava temples are dedicated to Shiva.",
+        "source": "Hindu Iconography"
+      }
+    },
+    {
+      "type": "Deity",
+      "properties": {
+        "id": "vishnu",
+        "name": "Vishnu",
+        "description": "The preserver deity of Hinduism. Major temples like Srirangam and sections of the Shore Temple are dedicated to Vishnu in various forms.",
+        "source": "Hindu Iconography"
+      }
+    },
+    {
+      "type": "Inscription",
+      "properties": {
+        "id": "thanjavur_inscriptions",
+        "name": "Thanjavur Inscriptions",
+        "language": "Tamil and Sanskrit",
+        "script": "Tamil and Grantha",
+        "date": "1010 CE",
+        "description": "Carved onto the stone base of the Brihadisvara Temple, these inscriptions list the extensive donations of gold, land, and jewelry by Rajaraja Chola I, his sister Kundavai, and his queens, providing detailed insights into Chola economy, temple dancers, and administration.",
+        "source": "South Indian Inscriptions, Vol II"
+      }
+    },
+    {
+      "type": "Inscription",
+      "properties": {
+        "id": "uttiramerur_inscriptions",
+        "name": "Uttiramerur Inscriptions",
+        "language": "Tamil",
+        "script": "Tamil",
+        "date": "920 CE",
+        "description": "Located on the walls of the Vaikuntha Perumal temple in Uttiramerur, these inscriptions detail a highly functional system of local self-governance, committee elections (Kudavolai system), and qualification standards for Chola village assemblies.",
+        "source": "Epigraphia Indica, Vol XXII"
+      }
+    },
+    {
+      "type": "HistoricalEvent",
+      "properties": {
+        "id": "coronation_rajaraja",
+        "name": "Coronation of Rajaraja Chola I",
+        "date": "985 CE",
+        "description": "Marks the ascension of Arulmozhi Varman as Rajaraja Chola I, triggering the golden period of expansion and construction in South India.",
+        "source": "Chola Royal Genealogy Studies"
+      }
+    },
+    {
+      "type": "HistoricalEvent",
+      "properties": {
+        "id": "conquest_kadaram",
+        "name": "Conquest of Kadaram (Sumatra)",
+        "date": "1025 CE",
+        "description": "A major naval campaign launched by Rajendra Chola I against the Srivijaya empire in Southeast Asia, ensuring free maritime trade routes for Tamil merchant guilds.",
+        "source": "Larger Leyden Grant Inscription"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "start": "brihadisvara",
+      "end": "thanjavur",
+      "type": "LOCATED_IN"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "chola_period",
+      "type": "BUILT_DURING"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "chola_dynasty",
+      "type": "ASSOCIATED_WITH_DYNASTY"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "rajaraja_chola_i",
+      "type": "COMMISSIONED_BY"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "shiva",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "dravidian_architecture",
+      "type": "HAS_ARCHITECTURAL_STYLE"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "vimana",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "mandapa",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "brihadisvara",
+      "end": "thanjavur_inscriptions",
+      "type": "HAS_INSCRIPTION"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "gangaikonda_cholapuram_loc",
+      "type": "LOCATED_IN"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "chola_period",
+      "type": "BUILT_DURING"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "chola_dynasty",
+      "type": "ASSOCIATED_WITH_DYNASTY"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "rajendra_chola_i",
+      "type": "COMMISSIONED_BY"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "shiva",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "dravidian_architecture",
+      "type": "HAS_ARCHITECTURAL_STYLE"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "vimana",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "gangaikonda_cholapuram",
+      "end": "mandapa",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "airavatesvara",
+      "end": "darasuram",
+      "type": "LOCATED_IN"
+    },
+    {
+      "start": "airavatesvara",
+      "end": "chola_period",
+      "type": "BUILT_DURING"
+    },
+    {
+      "start": "airavatesvara",
+      "end": "chola_dynasty",
+      "type": "ASSOCIATED_WITH_DYNASTY"
+    },
+    {
+      "start": "airavatesvara",
+      "end": "rajaraja_chola_ii",
+      "type": "COMMISSIONED_BY"
+    },
+    {
+      "start": "airavatesvara",
+      "end": "shiva",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "airavatesvara",
+      "end": "dravidian_architecture",
+      "type": "HAS_ARCHITECTURAL_STYLE"
+    },
+    {
+      "start": "airavatesvara",
+      "end": "mandapa",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "shore_temple",
+      "end": "mamallapuram",
+      "type": "LOCATED_IN"
+    },
+    {
+      "start": "shore_temple",
+      "end": "pallava_period",
+      "type": "BUILT_DURING"
+    },
+    {
+      "start": "shore_temple",
+      "end": "pallava_dynasty",
+      "type": "ASSOCIATED_WITH_DYNASTY"
+    },
+    {
+      "start": "shore_temple",
+      "end": "narasimhavarman_ii",
+      "type": "COMMISSIONED_BY"
+    },
+    {
+      "start": "shore_temple",
+      "end": "shiva",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "shore_temple",
+      "end": "vishnu",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "shore_temple",
+      "end": "dravidian_architecture",
+      "type": "HAS_ARCHITECTURAL_STYLE"
+    },
+    {
+      "start": "shore_temple",
+      "end": "vimana",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "kanchipuram",
+      "type": "LOCATED_IN"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "pallava_period",
+      "type": "BUILT_DURING"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "pallava_dynasty",
+      "type": "ASSOCIATED_WITH_DYNASTY"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "narasimhavarman_ii",
+      "type": "COMMISSIONED_BY"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "shiva",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "dravidian_architecture",
+      "type": "HAS_ARCHITECTURAL_STYLE"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "vimana",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "kailasanathar",
+      "end": "mandapa",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "meenakshi_amman",
+      "end": "madurai",
+      "type": "LOCATED_IN"
+    },
+    {
+      "start": "meenakshi_amman",
+      "end": "pandya_period",
+      "type": "BUILT_DURING"
+    },
+    {
+      "start": "meenakshi_amman",
+      "end": "pandya_dynasty",
+      "type": "ASSOCIATED_WITH_DYNASTY"
+    },
+    {
+      "start": "meenakshi_amman",
+      "end": "shiva",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "meenakshi_amman",
+      "end": "dravidian_architecture",
+      "type": "HAS_ARCHITECTURAL_STYLE"
+    },
+    {
+      "start": "meenakshi_amman",
+      "end": "gopuram",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "meenakshi_amman",
+      "end": "mandapa",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "ranganathaswamy",
+      "end": "srirangam",
+      "type": "LOCATED_IN"
+    },
+    {
+      "start": "ranganathaswamy",
+      "end": "chola_period",
+      "type": "BUILT_DURING"
+    },
+    {
+      "start": "ranganathaswamy",
+      "end": "vishnu",
+      "type": "DEDICATED_TO"
+    },
+    {
+      "start": "ranganathaswamy",
+      "end": "dravidian_architecture",
+      "type": "HAS_ARCHITECTURAL_STYLE"
+    },
+    {
+      "start": "ranganathaswamy",
+      "end": "gopuram",
+      "type": "HAS_ARCHITECTURAL_FEATURE"
+    },
+    {
+      "start": "rajaraja_chola_i",
+      "end": "chola_dynasty",
+      "type": "RULED_BY"
+    },
+    {
+      "start": "rajendra_chola_i",
+      "end": "chola_dynasty",
+      "type": "RULED_BY"
+    },
+    {
+      "start": "rajaraja_chola_ii",
+      "end": "chola_dynasty",
+      "type": "RULED_BY"
+    },
+    {
+      "start": "narasimhavarman_ii",
+      "end": "pallava_dynasty",
+      "type": "RULED_BY"
+    },
+    {
+      "start": "rajaraja_chola_i",
+      "end": "coronation_rajaraja",
+      "type": "ASSOCIATED_WITH_EVENT"
+    },
+    {
+      "start": "rajendra_chola_i",
+      "end": "conquest_kadaram",
+      "type": "ASSOCIATED_WITH_EVENT"
+    },
+    {
+      "start": "thanjavur",
+      "end": "darasuram",
+      "type": "NEAR"
+    },
+    {
+      "start": "thanjavur",
+      "end": "gangaikonda_cholapuram_loc",
+      "type": "NEAR"
+    },
+    {
+      "start": "gangaikonda_cholapuram_loc",
+      "end": "darasuram",
+      "type": "NEAR"
+    }
+  ]
+}
